@@ -2,6 +2,8 @@
 🎨FdF
 </h1>
 
+### 🗝️ Original in [**Russian**](https://github.com/AYglazk0v/fdf/blob/master/README.md)
+
 ## 💡 About the project:
 
 > _This project is dedicated to representing the landscape as a three-dimensional object
